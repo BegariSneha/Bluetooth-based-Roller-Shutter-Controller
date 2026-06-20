@@ -21,7 +21,7 @@ The system consists of an Arduino Uno, HC-05 Bluetooth module, L298N motor drive
  - Real-time command processing
 
 ## Components Used
- - Hardware
+## Hardware
  - Arduino Uno
  - HC-05 Bluetooth Module
  - L298N Motor Driver
@@ -29,7 +29,7 @@ The system consists of an Arduino Uno, HC-05 Bluetooth module, L298N motor drive
  - Power Supply
  - Roller Shutter Mechanism
 
-Software
+## Software
  - Arduino IDE
 
 
