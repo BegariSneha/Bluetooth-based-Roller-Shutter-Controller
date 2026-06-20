@@ -1,4 +1,4 @@
-# Bluetooth-Controlled Intelligent Roller Shutter
+# Bluetooth based Roller Shutter Controller
 
 ## Overview
 The Bluetooth-Controlled Intelligent Roller Shutter is an Arduino-based automation system that enables users to open and close roller shutters using a smartphone. The project replaces traditional manual operation with a wireless control mechanism, improving convenience and accessibility.
@@ -30,7 +30,7 @@ The system consists of an Arduino Uno, HC-05 Bluetooth module, L298N motor drive
  - Roller Shutter Mechanism
 
 Software
- = Arduino IDE
+ - Arduino IDE
 
 
 ## Technologies Used
@@ -49,9 +49,9 @@ Software
  - Designing automation solutions using microcontrollers
 
 
-@@ Future Enhancements
+## Future Enhancements
  - Mobile application with a custom user interface
  - Integration with Wi-Fi and IoT platforms
  - Voice control support
  - Obstacle detection and safety mechanisms
-Remote monitoring and control via the internet
+ - Remote monitoring and control via the internet
